@@ -1,0 +1,3 @@
+C:/Users/gonza/Desktop/UNI/2do año/SS.OO/entregables/Entrega_1/cmake-build-debug/CMakeFiles/Entrega_1.dir
+C:/Users/gonza/Desktop/UNI/2do año/SS.OO/entregables/Entrega_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gonza/Desktop/UNI/2do año/SS.OO/entregables/Entrega_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
